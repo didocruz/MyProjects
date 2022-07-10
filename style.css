@@ -177,7 +177,7 @@ footer p{
 	max-width: 100%;
 }
 
-li:hover{
+.cert-containers li:hover{
 
 	transform: scale(1.5);
 
